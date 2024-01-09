@@ -1,0 +1,18 @@
+/* styles.css */
+
+/* mainContainer class */
+.mainContainer {
+    display: flex;
+    align-items: center;
+  }
+  
+  /* smMargin class */
+  .smMargin {
+    margin: 8px; /* Utilisation de la valeur de margin de thème ou équivalente */
+  }
+  
+  /* actionDiv class */
+  .actionDiv {
+    text-align: center;
+  }
+  

@@ -1,0 +1,30 @@
+/* styles.css */
+
+/* root class */
+.root .MuiTextField-root {
+    margin: 8px; /* Utilisation de la valeur de margin de thème ou équivalente */
+  }
+  
+  /* paper class */
+  .paper {
+    padding: 16px; /* Utilisation de la valeur de padding de thème ou équivalente */
+  }
+  
+  /* form class */
+  .form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  /* fileInput class */
+  .fileInput {
+    width: 97%;
+    margin: 10px 0;
+  }
+  
+  /* buttonSubmit class */
+  .buttonSubmit {
+    margin-bottom: 10px;
+  }
+  

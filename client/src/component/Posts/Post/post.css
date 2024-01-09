@@ -1,0 +1,70 @@
+/* styles.css */
+
+/* media class */
+.media {
+    height: 0;
+    padding-top: 56.25%;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+  }
+  
+  /* border class */
+  .border {
+    border: solid;
+  }
+  
+  /* fullHeightCard class */
+  .fullHeightCard {
+    height: 100%;
+  }
+  
+  /* card class */
+  .card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 15px;
+    height: 100%;
+    position: relative;
+  }
+  
+  /* overlay class */
+  .overlay {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    color: white;
+  }
+  
+  /* overlay2 class */
+  .overlay2 {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    color: white;
+  }
+  
+  /* grid class */
+  .grid {
+    display: flex;
+  }
+  
+  /* details class */
+  .details {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+  }
+  
+  /* title class */
+  .title {
+    padding: 0 16px;
+  }
+  
+  /* cardActions class */
+  .cardActions {
+    padding: 0 16px 8px 16px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
